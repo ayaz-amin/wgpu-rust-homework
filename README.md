@@ -1,2 +1,2 @@
-# wgpu-rust-homework
- Code that I am writing to learn Rust and wgpu for graphics programming.
+# Rust wgpu homework
+Code that I am writing to learn Rust and wgpu for graphics programming. While the code is mostly the same as this [tutorial](https://sotrh.github.io/learn-wgpu), the challenge portion of the tutorial was mostly done by me.
